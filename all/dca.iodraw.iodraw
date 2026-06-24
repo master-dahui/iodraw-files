@@ -10,7 +10,7 @@
         <mxCell id="3fwqtVlhuzU7JOFaDj2h-11" value="VIT+Q-Former" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="190" width="70" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="3fwqtVlhuzU7JOFaDj2h-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="3fwqtVlhuzU7JOFaDj2h-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="3fwqtVlhuzU7JOFaDj2h-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="350" as="sourcePoint" />
             <mxPoint x="610" y="300" as="targetPoint" />
