@@ -25,7 +25,7 @@
         <mxCell id="3fwqtVlhuzU7JOFaDj2h-21" value="Customized&lt;br/&gt;Q-Former" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="470" y="190" width="90" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="4jTX_AhD9gVNL4p1JhnV-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4jTX_AhD9gVNL4p1JhnV-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3fwqtVlhuzU7JOFaDj2h-11" target="3fwqtVlhuzU7JOFaDj2h-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="320" as="sourcePoint" />
             <mxPoint x="330" y="270" as="targetPoint" />
