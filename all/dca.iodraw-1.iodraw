@@ -23,7 +23,7 @@
           <mxGeometry x="360" y="190" width="70" height="110" as="geometry" />
         </mxCell>
         <mxCell id="3fwqtVlhuzU7JOFaDj2h-20" value="外部视觉名称记忆库&lt;div&gt;Key：图像嵌入&lt;/div&gt;&lt;div&gt;Value：对象名称&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3fwqtVlhuzU7JOFaDj2h-21" value="Customized&lt;br/&gt;Q-Former" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="470" y="190" width="90" height="110" as="geometry" />
@@ -38,6 +38,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="320" as="sourcePoint" />
             <mxPoint x="480" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4jTX_AhD9gVNL4p1JhnV-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="260" as="sourcePoint" />
+            <mxPoint x="460" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
