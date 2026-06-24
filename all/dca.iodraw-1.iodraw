@@ -67,6 +67,15 @@
             <mxPoint x="710" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="4jTX_AhD9gVNL4p1JhnV-13" value="Linear&lt;div&gt;Layer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="190" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="4jTX_AhD9gVNL4p1JhnV-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="270" as="sourcePoint" />
+            <mxPoint x="710" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
