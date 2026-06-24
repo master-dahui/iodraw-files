@@ -16,7 +16,7 @@
             <mxPoint x="610" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3fwqtVlhuzU7JOFaDj2h-16" value="动态检索模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="3fwqtVlhuzU7JOFaDj2h-16" value="动态检索模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#07339a;" parent="1" vertex="1">
           <mxGeometry x="360" y="190" width="70" height="110" as="geometry" />
         </mxCell>
         <mxCell id="3fwqtVlhuzU7JOFaDj2h-20" value="外部视觉名称记忆库&lt;div&gt;Key：图像嵌入&lt;/div&gt;&lt;div&gt;Value：对象名称&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
