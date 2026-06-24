@@ -19,6 +19,9 @@
         <mxCell id="3fwqtVlhuzU7JOFaDj2h-16" value="动态检索模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="190" width="70" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="3fwqtVlhuzU7JOFaDj2h-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
