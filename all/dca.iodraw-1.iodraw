@@ -40,8 +40,8 @@
             <mxPoint x="460" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4jTX_AhD9gVNL4p1JhnV-6" value="Customized&lt;br/&gt;Q-Former" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="480" y="200" width="90" height="110" as="geometry" />
+        <mxCell id="4jTX_AhD9gVNL4p1JhnV-6" value="置信度门控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="590" y="190" width="90" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
