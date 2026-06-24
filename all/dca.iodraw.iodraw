@@ -16,8 +16,8 @@
             <mxPoint x="610" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3fwqtVlhuzU7JOFaDj2h-16" value="VIT+Q-Former" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="200" width="70" height="110" as="geometry" />
+        <mxCell id="3fwqtVlhuzU7JOFaDj2h-16" value="动态检索模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="190" width="70" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
